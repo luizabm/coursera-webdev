@@ -25,5 +25,4 @@
 // xxxx.xxxx = helloSpeaker;
   window.helloSpeaker = helloSpeaker;
 
-<<<<<<< HEAD
 })(window);
