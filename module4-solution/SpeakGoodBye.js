@@ -27,8 +27,5 @@
 // xxxx.xxxx = byeSpeaker;
   window.byeSpeaker = byeSpeaker;
 
-<<<<<<< HEAD
 })(window);
-=======
-})(window);
->>>>>>> b6edd16388d9c0e395609a847115a2508ce79022
+
