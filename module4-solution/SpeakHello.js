@@ -26,4 +26,7 @@
   window.helloSpeaker = helloSpeaker;
 
 })(window);
+<<<<<<< HEAD
 
+=======
+>>>>>>> a0704535bea075874349e963b000ee466dfeb32b
